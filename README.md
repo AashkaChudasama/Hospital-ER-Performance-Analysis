@@ -72,19 +72,21 @@ The interactive report contains four pages, accessible through the navigation me
 
 ## Dashboard Preview
 
-Add the dashboard screenshots to the repository's `images/` folder and use the filenames below, or update the paths to match your files.
-
 **Monthly View**
 
-![Hospital ER Performance Dashboard – Monthly View](images/monthly-view.png)
+<img width="807" height="488" alt="Screenshot 2026-11-03 150302" src="https://github.com/user-attachments/assets/413470d9-4143-4481-9a5f-6a7f34d57134" />
 
 **Consolidated View**
 
-![Hospital ER Performance Dashboard – Consolidated View](images/consolidated-view.png)
+<img width="807" height="493" alt="Screenshot 2026-11-03 150326" src="https://github.com/user-attachments/assets/4eff82c9-c678-425d-b330-840c03370ca3" />
+
+**Patient Details**
+
+<img width="808" height="489" alt="Screenshot 2026-11-03 150416" src="https://github.com/user-attachments/assets/85c5faf6-49eb-48a4-b5a2-e85595a9fb71" />
 
 **Key Takeaways**
 
-![Hospital ER Performance Dashboard – Key Takeaways](images/key-takeaways.png)
+<img width="808" height="492" alt="Screenshot 2026-11-03 174729" src="https://github.com/user-attachments/assets/31fd4132-1cfd-4fe4-8156-adf691d73fdd" />
 
 ## Key Findings
 
@@ -115,7 +117,7 @@ Add the dashboard screenshots to the repository's `images/` folder and use the f
 ## How to Use
 
 1. Clone or download the repository.
-2. Open `dashboard/Hospital Emergency Room.pbix` in Power BI Desktop.
+2. Open `dashboard/Hospital ER Performance Analysis.pbix` in Power BI Desktop.
 3. If prompted, update the source connection to your authorized local dataset.
 4. Refresh the report.
 5. Use the Month & Year slicer or date-range filter and the left-side navigation to explore the dashboard pages.
